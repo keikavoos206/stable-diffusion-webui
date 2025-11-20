@@ -1,8 +1,1 @@
-@echo off
-
-set PYTHON=
-set GIT=
-set VENV_DIR=
-set COMMANDLINE_ARGS=
-
-call webui.bat
+git clone https://github.com/deforum-art/sd-webui-deforum.git
